@@ -48,3 +48,43 @@ Em função disso, é relevante frisar que tal gerenciamento manual pode gerar i
 Veja que a C++ é uma linguagem de programação que possui suas origens na linguagem C, mas com a facilidade e maior performance da orientação a objeto. Ela é uma das poucas linguagens que podemos programar em POO ou estruturada.
 
 # Diferenças e semelhanças de Java e C++
+*Design*
+As duas linguagens são bem diferentes. Em compensação, ambas são muito boas em relação a sua performance, apesar da C++ ter a tendência de ser um pouco mais rápida, já que o Java necessita ser interpretado no momento da execução do código. Esse processo acaba tornando a linguagem Java um pouco mais lenta, mas, de qualquer forma, as duas linguagens têm um bom desempenho, mas de forma diferente.
+
+*Popularidade*
+As duas linguagens são muito utilizadas mundialmente. Porém, a C++ já era utilizada e reconhecida antes da Java entrar no mercado por volta de 2012.
+Atualmente, a Java é a linguagem vista como mais popular, apesar do C++ ter sido desenvolvida para uso geral. Cada uma tem sua legião de fãs.
+
+# Linguagem C#
+Na verdade, o nome da linguagem foi escolhido, pois o símbolo # é utilizado para se referir ao sustenido, no meio musical. O sustenido indica meio tom acima de uma determinada nota musical. E já que o C# possui uma sintaxe elegante, expressiva e orientada a objetos, foi o nome escolhido pela Microsoft quando foi desenvolvida como parte da plataforma .NET.
+
+A C# foi criada com base na linguagem C++, mas inseriu também alguns percursos de outras linguagens, como a Java e Object Pascal. A C# é uma linguagem multiparadigma e de tipagem (que não realiza conversões automaticamente, não permitindo que um mesmo dado seja tratado como se fosse de outro tipo).
+
+A linguagem C# tem suas raízes em C, C++ e Java, adaptando os melhores recursos de cada linguagem para que seja possível acrescentar novas capacidades próprias.
+
+Como ela foi criada com base em linguagens utilizadas mundialmente e muito bem desenvolvidas, os programadores podem aprender facilmente e de forma agradável.
+
+Pois, apesar da sua sintaxe parecer um pouco complexa, ela é muito simples para pessoas que já são familiarizadas com linguagens C, C++ ou Java.
+
+Além disso, é interessante comentar que essa linguagem foi desenvolvida por um grupo de pessoas que ajudou na criação, destacando-se Anders Hejlsberg, o mesmo que ajudou no desenvolvimento das linguagens Turbo Pascal e Delphi. Por eles não focarem em sua compatibilidade, a linguagem foi desenvolvida do zero, sendo a maioria das classes do framework .NET em C#.
+
+*Características da linguagem C#*
+
+Compatibilidade total com o Windows: é compatível com o ambiente Windows sem necessitar de nenhum programa ou configuração especial para que seja executada no ambiente. Isso serve tanto para ambientes Web, desktop, além de serem facilmente instalados em rede.
+
+Facilidade de se aprender a linguagem: como visto anteriormente, principalmente para quem já tem familiaridade com outras linguagens de POO, é uma das vantagens da C#. Encontrar programadores especializados pelo mundo se torna algo mais fácil e rápido, além dela ser relacionada com a Java, fazendo com que o desenvolvedor possa trabalhar com as duas ao mesmo tempo, agregando valor ao aplicativo a ser desenvolvido.
+
+Compatibilidade com desenvolvimentos para nuvem: (armazenamento de dados fora da máquina, na Internet): a sua segurança, estabilidade e facilidade que proporciona os aplicativos em nuvem, crescem a cada ano. Por isso, atualmente, um desenvolvedor deve estar atualizado quando o assunto é desenvolvimento em nuvem.
+
+Segurança: é uma das principais vantagens do C#. Nessa linguagem não se consegue utilizar uma variável não inicializada, já que isso pode causar estragados em uma aplicação. No C# se isto ocorrer, uma notificação será enviada ao desenvolvedor.
+
+*Desvantagens*
+
+Falta de suporte para o .NET: algumas estruturas .NET deixaram de receber suporte pela Windows depois de atualizações do seu sistema operacional.
+
+Suporte somente Windows: aplicativos desenvolvidos na linguagem só funcionam em ambiente Windows. Isso quer dizer que se o servidor que o aplicativo será rodado tiver Linux como sistema operacional, será necessária a instalação do Windows.
+
+Perdas de espaço de memória: ocorre quando um espaço na memória, que já não é mais utilizado, não é liberado para uma nova locação. Apesar do .NET possuir um recurso chamado coletor de lixo, que realiza o serviço de tentar liberar esse espaço, esse problema ainda traz muita preocupação. Quanto mais uma aplicação cresce, mais espaços perdidos na memória são criados.
+
+Compilação: Apesar de ser uma vantagem, também pode ser uma desvantagem. Como o código precisa ser compilado a cada nova linha de código criada, o aparecimento de bugs (erros no código desenvolvido) pode ser frequente, se uma pequena modificação no código não for cuidadosamente testada.
+
